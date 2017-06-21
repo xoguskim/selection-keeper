@@ -1,0 +1,31 @@
+{
+    "name": "selection-keeper",
+    "description": "A cross-browser DOM selection saving and restoring library",
+    "version": "0.1.0-dev",
+    "author": {
+        "name": "Taehyun Kim",
+        "email": "xogus.kim@gmail.com",
+        "url": "https://github.com/xoguskim"
+    },
+    "keywords": ["selection", "caret", "DOM"],
+    "homepage": "https://github.com/xoguskim/selection-keeper",
+    "bugs": {
+        "url": "https://github.com/xoguskim/selection-keeper/issues"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://www.opensource.org/licenses/mit-license.php"
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/xoguskim/selection-keeper.git"
+    },
+    "main": "lib/selection-keeper-core.js",
+    "directories": {
+        "lib": "./lib"
+    },
+    "dependencies": {},
+    "devDependencies": {}
+}
